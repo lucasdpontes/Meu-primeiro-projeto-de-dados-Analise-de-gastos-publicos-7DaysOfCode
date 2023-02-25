@@ -2,7 +2,7 @@
 
 Projeto por Lucas Disposte Pontes
 
-O **#7DaysOfCode - Ciência de Dados** é um conjunto de desafios diários para o desenvolvimento de um projeto de ciência de dados, proposto pela Alura. Foi possível aprofundar os conhecimentos em coleta, transformação e análise exploratória de dados.
+O **#7DaysOfCode - Ciência de Dados** é um conjunto de desafios diários que orientam o desenvolvimento de um projeto de ciência de dados, proposto pela Alura. Nesse desafio, foi possível aprofundar os conhecimentos em coleta, transformação e análise exploratória de dados.
 
 **Base de dados utilizada:** CECAPS (Cota para Exercício da Atividade Parlamentar dos Senadores) <https://www12.senado.leg.br/transparencia/dados-abertos-transparencia/dados-abertos-ceaps>.
 
@@ -12,7 +12,7 @@ Essa base é disponibilizada publicamente, cujo objetivo foi avaliar gastos púb
 * Python
 * Pandas
 * Ploty
-* Google Colaboratory
+* Google Colaboratory (notebook)
 
 **Referências:**
 
