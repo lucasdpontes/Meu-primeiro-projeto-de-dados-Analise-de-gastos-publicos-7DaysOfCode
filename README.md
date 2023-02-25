@@ -13,4 +13,5 @@ A base de dados utilizada é disponibilizada publicamente pelo CECAPS (Centro de
 * Google Colaboratory
 
 **Referências:**
+
 https://7daysofcode.io/#dados
