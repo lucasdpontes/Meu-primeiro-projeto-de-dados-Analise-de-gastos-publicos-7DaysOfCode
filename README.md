@@ -12,5 +12,5 @@ A base de dados utilizada é disponibilizada publicamente pelo CECAPS (Centro de
 * Ploty
 * Google Colaboratory
 
-Referências:
+**Referências:**
 https://7daysofcode.io/#dados
